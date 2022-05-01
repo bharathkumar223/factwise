@@ -1,5 +1,7 @@
 # FactWise React Js Challenge 😎
 
+Live at https://upbeat-beaver-1a0b04.netlify.app/
+
 ## Expected Outcomes: ✨
 
 1. Fetch the current Date and Vaccination Information of the people from the "public/data" folder using axios or fetch library.
